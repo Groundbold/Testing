@@ -1,0 +1,65 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	 
+  min-width: 100%;
+  min-height: 100%
+background-image:url(http://waterfordwhispersnews.com/wp-content/uploads/2016/09/dank-memes-e1473336530668.jpg);/*your background image*/  
+   background-repeat:no-repeat;/*we want to have one single image not a repeated one*/  
+   background-size:cover;
+
+}
+
+h1 {
+  color: #GGGGGG;
+  font-family: Palatino, 'Palatino Linotype', serif;
+	font-size: 40px;
+}
+.hero {
+	padding: 250px 0;
+	margin: 30px;
+  background-image: url("http://www.pixelstalk.net/wp-content/uploads/2016/06/Download-Free-Meme-Wallpaper.jpg");
+  background-size: cover;
+  color: #DDRRGG;
+   font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
+
+h2{
+color: green;
+text-align:center;
+}
+
+
+.nav {
+text-align:left;
+border: 5px solid #GGG;
+padding: 15px;
+  background-color: red;
+  max-width: 15%;
+max-height: 100%;
+min-height:100%
+  min-width: 30rem;
+  flex: 1;
+}
+
+
+
+.memevideo
+{
+text-align:center;
+}
+.beginning
+{
+text-align:center;
+flex:1;
+}
+ul li{
+ font-size:20px;
+}
+.copyright
+{
+bottom: 0;
+text-align:center;
+position:fixed;
+{
